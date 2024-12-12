@@ -6,7 +6,7 @@
 # Echo
 
 # Seleccione el tipo de actividad
-#[✔] Feature
+# [✔] Feature
 # Hotfix
 # Refactor
 # Performance
